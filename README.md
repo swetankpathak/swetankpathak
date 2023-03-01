@@ -9,14 +9,17 @@
 
 - 🌱 I’m currently learning **Reactjs**
 
-- 💬 Ask me about **Frontend, Machine-Learning**
+- 👨‍💻 All of my projects are available at [Github](Github)
 
-- 📫 How to reach me **swetankpathak26@gmail.com**
+- 💬 Ask me about **Frontend, Machine-Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/@swetank-pathak2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@swetank-pathak2020" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/swetankpathak26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swetankpathak26" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@swetankpathak26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@swetankpathak26" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/@swetankpathak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@swetankpathak" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/swetankpathak26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="swetankpathak26" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
