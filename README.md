@@ -1,4 +1,4 @@
-<p align="left"><img align="right" height=400 src="https://github.com/AdityaKumar28/AdityaKumar28/raw/main/animation.gif"><a href="https://git.io/typing-svg">
+<p align="left"><img align="right" height=300 src="https://github.com/AdityaKumar28/AdityaKumar28/raw/main/animation.gif"><a href="https://git.io/typing-svg">
 
 
 <h1 align="center">Hi 👋, I'm Swetank</h1>
