@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swetank</h1>
 <h3 align="center">A passionate frontend developer from Vellore Institute of Technology India</h3>
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1ziIkN3dycbgITo80XYAWNf1YO-wpPqG-/view?usp=sharing">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swetankpathak&label=Profile%20views&color=0e75b6&style=flat" alt="swetankpathak" /> </p>
 
@@ -8,12 +7,16 @@
 
 - 🔭 I’m currently working on **Ecommerce website**
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **Reactjs**
+
+- 💬 Ask me about **Frontend, Machine-Learning**
 
 - 📫 How to reach me **swetankpathak26@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/@swetank-pathak2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@swetank-pathak2020" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@swetankpathak26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@swetankpathak26" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
